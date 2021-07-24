@@ -1,0 +1,7 @@
+{
+  "name": "apiheroku",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
